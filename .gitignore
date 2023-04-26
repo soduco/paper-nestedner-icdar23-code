@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+/t1_dataset_tools/
+/t0_ocr_alignement/
