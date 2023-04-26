@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 __pycache__/
-/t1_dataset_tools/
-/t0_ocr_alignement/
+/src/t1_dataset_tools/
+/src/t0_ocr_alignement/
