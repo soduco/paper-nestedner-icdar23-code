@@ -1,0 +1,21 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Solenn
+    given-names: Tual
+    orcid: https://orcid.org/0000−0001−8549−7949
+  - family-names: Nathalie
+    given-names: Abadie
+    orcid: https://orcid.org/0000−0001−8741−2398
+  - family-names: Joseph
+    given-names: Chazalon
+    orcid: https://orcid.org/0000−0002−3757−074X
+  - family-names: Bertrand
+    given-names: Duménieu
+    orcid: https://orcid.org/0000−0002−2517−2058
+  - family-names: Edwin
+    given-names: Carlinet
+    orcid: https://orcid.org/0000−0001−5737−5266
+title: soduco/paper-nestedner-icdar23-code: Reviewer version
+version: v0_review_version
+date-released: 2023-04-26
