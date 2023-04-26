@@ -2,7 +2,7 @@
 
 ## Sources documents
 * Paper pre-print (PDF) : [HAL](https://hal.science/hal-03994759)
-* Full dataset (images and transcripted texts) : [Zenodo](10.5281/zenodo.7864175)
+* Full dataset (images and transcripted texts) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7864175.svg)](https://doi.org/10.5281/zenodo.7864175)
 
 ## Code
 [![python](https://img.shields.io/badge/-Python_3.9_%7C_3.10_%7C_3.11-blue?logo=python&logoColor=white)](https://github.com/pre-commit/pre-commit)
@@ -14,13 +14,13 @@
 
 ## Project Structure
 
-The directory structure of new project looks like this:
+Structure of this repository:
 
 ```
 ├── dataset                    <- Data used for training
 │   ├── 10-ner_ref                <- Full ground-truth dataset
 │   ├── 31-ner_align_pero         <- Full Pero-OCR dataset
-│   ├── 41-ner_ref_from_pero      <- GT subset with valid Pero OCR equivalent.
+│   ├── 41-ner_ref_from_pero      <- GT entries subset which have valid Pero OCR equivalent.
 │
 ├── src                       <- Jupyter notebooks and Python scripts.
 │   ├── global_metrics             <- Benchmark results tables
