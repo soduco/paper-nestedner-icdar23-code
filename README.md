@@ -1,4 +1,4 @@
-# Code and Data for the paper "A Benchmark of Nested NER Approaches in Historical Documents" presented at [ICDAR 2023](https://icdar2023.org/)
+# Code and Data for the paper "A Benchmark of Nested NER Approaches in Historical Structured Documents" presented at [ICDAR 2023](https://icdar2023.org/)
 
 ## Sources documents
 * Paper pre-print (PDF) : [HAL](https://hal.science/hal-03994759)
