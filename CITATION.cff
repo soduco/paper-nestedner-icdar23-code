@@ -1,4 +1,4 @@
-cff-version: 1.1.0
+cff-version: 0.0.1
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Solenn
@@ -16,6 +16,6 @@ authors:
   - family-names: Edwin
     given-names: Carlinet
     orcid: https://orcid.org/0000−0001−5737−5266
-title: soduco/paper-nestedner-icdar23-code: Reviewer version
+title: A Benchmark of Nested NER Approaches in Historical Structured Documents 
 version: v0_review_version
 date-released: 2023-04-26
