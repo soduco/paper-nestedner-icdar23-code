@@ -44,6 +44,7 @@ Structure of this repository:
 │
 └── README.md
 ```
+Please note that for each approach, the qualitative analysis notebook and the demo notebook can be run without preparing the source data neather training models.
 
 ## Reference
 If you use this software, please cite it as below.
