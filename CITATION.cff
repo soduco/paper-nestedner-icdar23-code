@@ -1,7 +1,7 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 references:
-  - type: article
+  - type: conference-paper
     authors:
       - family-names: Tual
         given-names: Solenn
@@ -18,8 +18,16 @@ references:
       - family-names: Carlinet
         given-names: Edwin
         orcid: https://orcid.org/0000−0001−5737−5266
-    title: [Code] A Benchmark of Nested NER Approaches in Historical Structured Documents 
-    doi: 10.5281/zenodo.7867009
+    title: A Benchmark of Nested NER Approaches in Historical Structured Documents
+    year: 2023
+    collection-title: "Proceedings of the 17th International Conference on Document Analysis and Recognition"
+    conference:
+      - name: 17th International Conference on Document Analysis and Recognition
+        city: San José
+        region: California
+        country: USA
+      date-start: 2023-08-21
+      date-end: 2023-08-23
     repository-code: https://github.com/soduco/paper-nestedner-icdar23-code
     version: v0_review_version
     date-released: 2023-04-26
