@@ -46,7 +46,7 @@ Structure of this repository:
 ```
 
 ## Reference
-To cite the code and paper :
+
 ```
 @inproceedings{nner_benchmark_2023,
 	location = {San José, California, USA},

@@ -1,21 +1,22 @@
 cff-version: 0.0.1
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Solenn
-    given-names: Tual
+  - family-names: Tual
+    given-names: Solenn
     orcid: https://orcid.org/0000−0001−8549−7949
-  - family-names: Nathalie
-    given-names: Abadie
+  - family-names: Abadie
+    given-names: Nathalie
     orcid: https://orcid.org/0000−0001−8741−2398
-  - family-names: Joseph
-    given-names: Chazalon
+  - family-names: Chazalon
+    given-names: Joseph
     orcid: https://orcid.org/0000−0002−3757−074X
-  - family-names: Bertrand
-    given-names: Duménieu
+  - family-names: Duménieu
+    given-names: Bertrand
     orcid: https://orcid.org/0000−0002−2517−2058
-  - family-names: Edwin
-    given-names: Carlinet
+  - family-names: Carlinet
+    given-names: Edwin
     orcid: https://orcid.org/0000−0001−5737−5266
 title: A Benchmark of Nested NER Approaches in Historical Structured Documents 
+doi: 10.5281/zenodo.7867009
 version: v0_review_version
 date-released: 2023-04-26
