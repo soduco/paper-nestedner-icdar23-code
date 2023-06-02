@@ -1,47 +1,68 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  [Code] A Benchmark of Nested NER Approaches in Historical
+  Structured Documents
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
-  - family-names: Tual
-    given-names: Solenn
-    orcid: "0000-0001-8549-7949"
+  - given-names: Solenn
+    family-names: Tual
+    email: solenn.tual@ign.fr
+    affiliation: 'LASTIG, Univ. Gustave Eiffel, IGN-ENSG'
+    orcid: 'https://orcid.org/0000-0001-8549-7949'
   - family-names: Abadie
     given-names: Nathalie
-    orcid: "0000-0001-8741-2398"
-  - family-names: Chazalon
-    given-names: Joseph
-    orcid: "0000-0002-3757-074X"
+    email: nathalie-f.abadie@ign.fr
+    affiliation: 'LASTIG, Univ. Gustave Eiffel, IGN-ENSG'
+    orcid: 'https://orcid.org/0000-0001-8741-2398'
+  - given-names: Joseph
+    family-names: Chazalon
+    email: joseph.chazalon@lre.epita.fr
+    affiliation: 'LRE, EPITA'
+    orcid: 'https://orcid.org/0000-0002-3757-074X'
   - family-names: Duménieu
     given-names: Bertrand
-    orcid: "0000-0002-2517-2058"
+    orcid: 'https://orcid.org/0000-0002-2517-2058'
+    email: bertrand.dumenieu@ehess.fr
+    affiliation: 'CRH, EHESS'
+  - given-names: Edwin
+    family-names: Carlinet
+    orcid: 'https://orcid.org/0000-0001-5737-5266'
+    email: edwin.carlinet@lre.epita.fr
+    affiliation: 'LRE, EPITA'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7997437
+repository-code: 'https://github.com/soduco/paper-nestedner-icdar23-code'
+abstract: >-
+  Code and materials of the paper "A Benchmark of Nested NER
+  Approaches in Historical Structured Documents" to be
+  published at ICDAR 2023.
+license: MIT
+preferred-citation:
+  type: "conference-paper"
+  authors:
+  - family-names: Tual
+    given-names: Solenn
+    orcid: "https://orcid.org/0000-0001-8549-7949"
+  - family-names: Abadie
+    given-names: Nathalie
+    orcid: "https://orcid.org/0000-0001-8741-2398"
+  - family-names: Chazalon
+    given-names: Joseph
+    orcid: "https://orcid.org/0000-0002-3757-074X"
+  - family-names: Duménieu
+    given-names: Bertrand
+    orcid: "https://orcid.org/0000-0002-2517-2058"
   - family-names: Carlinet
     given-names: Edwin
-    orcid: "0000-0001-5737-5266"
-title: "[Code] A Benchmark of Nested NER Approaches in Historical Structured Documents"
-url: "https://github.com/soduco/paper-nestedner-icdar23-code"
-version: "v0_review_version"
-date-released: 2023-04-26
-doi: "10.5281/zenodo.7997437"
-preferred-citation:
-  - type: "conference-paper"
-    authors:
-      - family-names: Tual
-        given-names: Solenn
-        orcid: "0000-0001-8549-7949"
-      - family-names: Abadie
-        given-names: Nathalie
-        orcid: "0000-0001-8741-2398"
-      - family-names: Chazalon
-        given-names: Joseph
-        orcid: "0000-0002-3757-074X"
-      - family-names: Duménieu
-        given-names: Bertrand
-        orcid: "0000-0002-2517-2058"
-      - family-names: Carlinet
-        given-names: Edwin
-        orcid: "0000-0001-5737-5266"
-    title: "A Benchmark of Nested NER Approaches in Historical Structured Documents"
-    year: 2023
-    collection-title: "Proceedings of the 17th International Conference on Document Analysis and Recognition"
+    orcid: "https://orcid.org/0000-0001-5737-5266"
+  title: "A Benchmark of Nested NER Approaches in Historical Structured Documents"
+  year: 2023
+  collection-title: "Proceedings of the 17th International Conference on Document Analysis and Recognition"
     conference:
       - name: "17th International Conference on Document Analysis and Recognition"
         place: "San José, California, USA"
