@@ -31,9 +31,6 @@ Structure of this repository:
 |   ├── config.py
 |   |── requirements.txt  
 │                                      
-├── src-latex                 <- Latex source code
-│
-├── rebuttal
 │
 └── README.md
 ```
