@@ -1,22 +1,25 @@
-cff-version: 0.0.1
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Tual
-    given-names: Solenn
-    orcid: https://orcid.org/0000−0001−8549−7949
-  - family-names: Abadie
-    given-names: Nathalie
-    orcid: https://orcid.org/0000−0001−8741−2398
-  - family-names: Chazalon
-    given-names: Joseph
-    orcid: https://orcid.org/0000−0002−3757−074X
-  - family-names: Duménieu
-    given-names: Bertrand
-    orcid: https://orcid.org/0000−0002−2517−2058
-  - family-names: Carlinet
-    given-names: Edwin
-    orcid: https://orcid.org/0000−0001−5737−5266
-title: A Benchmark of Nested NER Approaches in Historical Structured Documents 
-doi: 10.5281/zenodo.7867009
-version: v0_review_version
-date-released: 2023-04-26
+references:
+  - type: article
+    authors:
+      - family-names: Tual
+        given-names: Solenn
+        orcid: https://orcid.org/0000−0001−8549−7949
+      - family-names: Abadie
+        given-names: Nathalie
+        orcid: https://orcid.org/0000−0001−8741−2398
+      - family-names: Chazalon
+        given-names: Joseph
+        orcid: https://orcid.org/0000−0002−3757−074X
+      - family-names: Duménieu
+        given-names: Bertrand
+        orcid: https://orcid.org/0000−0002−2517−2058
+      - family-names: Carlinet
+        given-names: Edwin
+        orcid: https://orcid.org/0000−0001−5737−5266
+    title: [Code] A Benchmark of Nested NER Approaches in Historical Structured Documents 
+    doi: 10.5281/zenodo.7867009
+    repository-code: https://github.com/soduco/paper-nestedner-icdar23-code
+    version: v0_review_version
+    date-released: 2023-04-26

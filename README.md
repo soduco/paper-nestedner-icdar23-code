@@ -11,7 +11,7 @@ Our results show that while nested NER approaches enable extracting structured d
 
 ## Code
 [![python](https://img.shields.io/badge/-Python_3.9_%7C_3.10_%7C_3.11-blue?logo=python&logoColor=white)](https://github.com/pre-commit/pre-commit)
-[![DOI](https://zenodo.org/badge/632562117.svg)](https://zenodo.org/badge/latestdoi/632562117)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7997437.svg)](https://doi.org/10.5281/zenodo.7997437)
 
 ### Installation
 ```
@@ -46,7 +46,7 @@ Structure of this repository:
 ```
 
 ## Reference
-
+If you use this software, please cite it as below.
 ```
 @inproceedings{nner_benchmark_2023,
 	location = {San José, California, USA},
