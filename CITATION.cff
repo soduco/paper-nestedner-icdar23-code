@@ -3,49 +3,49 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Tual
     given-names: Solenn
-    orcid: "0000-0001-8549-7949"  # Fixed the ORCID format
+    orcid: "0000-0001-8549-7949"
   - family-names: Abadie
     given-names: Nathalie
-    orcid: "0000-0001-8741-2398"  # Fixed the ORCID format
+    orcid: "0000-0001-8741-2398"
   - family-names: Chazalon
     given-names: Joseph
-    orcid: "0000-0002-3757-074X"  # Fixed the ORCID format
+    orcid: "0000-0002-3757-074X"
   - family-names: Duménieu
     given-names: Bertrand
-    orcid: "0000-0002-2517-2058"  # Fixed the ORCID format
+    orcid: "0000-0002-2517-2058"
   - family-names: Carlinet
     given-names: Edwin
-    orcid: "0000-0001-5737-5266"  # Fixed the ORCID format
+    orcid: "0000-0001-5737-5266"
 title: "[Code] A Benchmark of Nested NER Approaches in Historical Structured Documents"
-url: https://github.com/soduco/paper-nestedner-icdar23-code
-version: v0_review_version
+url: "https://github.com/soduco/paper-nestedner-icdar23-code"
+version: "v0_review_version"
 date-released: 2023-04-26
-doi: 10.5281/zenodo.7997437
+doi: "10.5281/zenodo.7997437"
 preferred-citation:
-  - type: conference-paper
+  - type: "conference-paper"
     authors:
       - family-names: Tual
         given-names: Solenn
-        orcid: "0000-0001-8549-7949"  # Fixed the ORCID format
+        orcid: "0000-0001-8549-7949"
       - family-names: Abadie
         given-names: Nathalie
-        orcid: "0000-0001-8741-2398"  # Fixed the ORCID format
+        orcid: "0000-0001-8741-2398"
       - family-names: Chazalon
         given-names: Joseph
-        orcid: "0000-0002-3757-074X"  # Fixed the ORCID format
+        orcid: "0000-0002-3757-074X"
       - family-names: Duménieu
         given-names: Bertrand
-        orcid: "0000-0002-2517-2058"  # Fixed the ORCID format
+        orcid: "0000-0002-2517-2058"
       - family-names: Carlinet
         given-names: Edwin
-        orcid: "0000-0001-5737-5266"  # Fixed the ORCID format
-    title: "A Benchmark of Nested NER Approaches in Historical Structured Documents"  # Removed square brackets
+        orcid: "0000-0001-5737-5266"
+    title: "A Benchmark of Nested NER Approaches in Historical Structured Documents"
     year: 2023
     collection-title: "Proceedings of the 17th International Conference on Document Analysis and Recognition"
     conference:
-      - name: "17th International Conference on Document Analysis and Recognition"  # Added double quotes
-        city: San José
-        region: California
-        country: USA
+      - name: "17th International Conference on Document Analysis and Recognition"
+        city: "San José"
+        region: "California"
+        country: "USA"
       date-start: 2023-08-21
       date-end: 2023-08-23
