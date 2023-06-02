@@ -46,7 +46,7 @@ Structure of this repository:
 ```
 
 ## Reference
-
+```
 @inproceedings{nner_benchmark_2023,
 	location = {San José, California, USA},
 	title = {A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents},
@@ -55,3 +55,4 @@ Structure of this repository:
 	author = {Tual, Solenn and Abadie, Nathalie and Carlinet, Edwin and Chazalon, Joseph and Duménieu, Bertrand},
 	date = {2023-08},
 }
+```
