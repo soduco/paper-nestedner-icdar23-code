@@ -49,11 +49,16 @@ Structure of this repository:
 If you use this software, please cite it as below.
 ```
 @inproceedings{nner_benchmark_2023,
-	location = {San José, California, USA},
 	title = {A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents},
-	url = {https://hal.science/hal-03994759},
-	eventtitle = {17th International Conference on Document Analysis and Recognition, {ICDAR} 2023, Proceedings},
-	author = {Tual, Solenn and Abadie, Nathalie and Carlinet, Edwin and Chazalon, Joseph and Duménieu, Bertrand},
-	date = {2023-08},
+    author = {Tual, Solenn and Abadie, Nathalie and Carlinet, Edwin and Chazalon, Joseph and Duménieu, Bertrand},
+    booktitle = {Proceedings of the 17th International Conference on Document Analysis and Recognition (ICDAR'23)},
+    year = {2023},
+    month = aug,
+    address = {San José, California, USA},
+	url = {https://hal.science/hal-03994759}
 }
 ```
+
+## Acknowledgment
+
+This work is supported by the [French National Research Agency (ANR)](https://anr.fr/Projet-ANR-18-CE38-0013), as part of the [SODUCO project](https://soduco.github.io/) (grant ANR-18-CE38-0013).
