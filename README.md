@@ -30,7 +30,7 @@ Structure of this repository:
 ├── dataset                    <- Data used for training
 │   ├── 10-ner_ref                <- Full ground-truth dataset
 │   ├── 31-ner_align_pero         <- Full Pero-OCR dataset
-│   ├── 41-ner_ref_from_pero      <- GT entries subset which have valid Pero OCR equivalent.
+│   ├── 41-ner_ref_from_pero      <- GT entries subset which have corresponding valid Pero OCR equivalent.
 │
 ├── src                       <- Jupyter notebooks and Python scripts.
 │   ├── global_metrics             <- Benchmark results tables
