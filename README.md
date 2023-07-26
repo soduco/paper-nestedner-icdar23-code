@@ -6,7 +6,7 @@ Traditional NER approaches deal with flat named entities, whereas entities often
 Our results show that while nested NER approaches enable extracting structured data directly, they do not benefit from the extra knowledge provided during training and reach a performance similar to the base approach on flat entities. Even though all 3 approaches perform well in terms of F1 scores, joint labelling is most suitable for hierarchically structured data. Finally, our experiments reveal the superiority of the IO tagging format on such data.
 
 ## Sources documents
-* Paper pre-print (PDF) : [HAL](https://hal.science/hal-03994759)
+* Paper pre-print (PDF) : [![HAL - 03994759](https://img.shields.io/badge/HAL-03994759-38104A)](https://hal.science/hal-03994759) & [![arXiv](https://img.shields.io/badge/arXiv-2302.10204-b31b1b.svg)](https://arxiv.org/abs/2302.10204)
 * Full dataset (images and transcripted texts) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7864174.svg)](https://doi.org/10.5281/zenodo.7864174)
 
 ## Code
