@@ -119,8 +119,8 @@ def compute_metrics(p):
 # =============================================================================
 # region ~ Data conversion utils for Hugginface
 
-_convert_tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
-#_convert_tokenizer = AutoTokenizer.from_pretrained("HueyNemud/das22-10-camembert_pretrained")
+#_convert_tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
+_convert_tokenizer = AutoTokenizer.from_pretrained("HueyNemud/das22-10-camembert_pretrained")
 
 def create_huggingface_dataset(entries):
     # Creates a Huggingface Dataset from a set of NER-XML entries

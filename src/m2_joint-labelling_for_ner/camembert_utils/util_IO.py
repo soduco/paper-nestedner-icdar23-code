@@ -216,8 +216,8 @@ def compute_metrics(p):
 # region ~ Data conversion utils for Hugginface
 
 #Model tokenizer
-#_convert_tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
-_convert_tokenizer = AutoTokenizer.from_pretrained("HueyNemud/das22-10-camembert_pretrained")
+_convert_tokenizer = AutoTokenizer.from_pretrained("pjox/dalembert")
+#_convert_tokenizer = AutoTokenizer.from_pretrained("HueyNemud/das22-10-camembert_pretrained")
 
 # convenient word tokenizer to create IOB-like data for the BERT models
 nltk.download("punkt")
