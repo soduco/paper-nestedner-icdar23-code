@@ -3,6 +3,9 @@ __pycache__/
 src_old/
 LICENSE.md
 m0_flat_ner/not_used/
+m0_flat_ner/00-prepare_datasets.ipynb
+m1_independant_ner_layers/M1_100-prepare_datasets-multihead.ipynb
+m2_joint-labelling_for_ner/M2_200-prepare_datasets_joint_labelling.ipynb
 m3_hierarchical_ner/M3_360-experiment_1_hierarchical_IN_hmr.ipynb
 m3_hierarchical_ner/M3_360-experiment_1_hierarchical_IN.ipynb
 m3_hierarchical_ner/tokenscaleanalysis-IO-PERO.pdf
