@@ -32,18 +32,22 @@ pip install --requirement requirements.txt
 Structure of this repository:
 
 ```
-├── dataset                    <- Data used for training
+├── dataset                    <- Data used for training and validation (except dataset_full.json)
 │   ├── 10-ner_ref                <- Full ground-truth dataset
 │   ├── 31-ner_align_pero         <- Full Pero-OCR dataset
 │   ├── 41-ner_ref_from_pero      <- GT entries subset which have corresponding valid Pero OCR equivalent.
+|   ├── qualitative_analysis      <- Test and entries for qualitative analysis
+|   ├── dataset_full.json         <- Published data
+|
+├── img                       <- Images
 │
 ├── src                       <- Jupyter notebooks and Python scripts.
-│   ├── global_metrics             <- Benchmark results tables
 │   ├── m0_flat_ner                <- Flat NER approach notebook and scripts
 │   ├── m1_independant_ner_layers  <- M1 approach notebook and scripts
 |   ├── m2_joint-labelling_for_ner <- M2 approach notebook and scripts
 │   ├── m3_hierarchical_ner        <- M3 approach notebook and scripts
-|   ├── config.py
+│   ├── t1_dataset_tools           <- Scripts to format dataset
+│   ├── t2_metrics             <- Benchmark results tables
 |   |── requirements.txt  
 │
 └── README.md
