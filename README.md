@@ -12,7 +12,7 @@ Our results show that while nested NER approaches enable extracting structured d
 
 ## Sources documents
 * Paper pre-print (PDF) : [![HAL - 03994759](https://img.shields.io/badge/HAL-03994759-38104A)](https://hal.science/hal-03994759) & [![arXiv](https://img.shields.io/badge/arXiv-2302.10204-b31b1b.svg)](https://arxiv.org/abs/2302.10204)
-* Final paper (Springer edition) : [![DOI:10.1007/978-3-031-41682-8_8](http://img.shields.io/badge/DOI-10.1007/978-3-031-41682-8_8-#1779E1.svg)](https://link.springer.com/chapter/10.1007/978-3-031-41682-8_8)
+* Final paper (Springer edition) : [![DOI - 10.1007/978-3-031-41682-8_8](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--41682--8__8-1779E1)](https://link.springer.com/chapter/10.1007/978-3-031-41682-8_8)
 * Full dataset (images and transcripted texts) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7864174.svg)](https://doi.org/10.5281/zenodo.7864174)
 
 ## Code
