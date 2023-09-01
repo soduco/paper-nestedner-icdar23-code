@@ -65,7 +65,8 @@ If you use this software, please cite it as below.
     year = {2023},
     month = aug,
     address = {San José, California, USA},
-	url = {https://hal.science/hal-03994759}
+	url = {https://hal.science/hal-03994759},
+    doi = {https://doi.org/10.1007/978-3-031-41682-8_8}
 }
 ```
 
