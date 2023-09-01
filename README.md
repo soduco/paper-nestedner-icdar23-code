@@ -20,6 +20,9 @@ Our results show that while nested NER approaches enable extracting structured d
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7997437.svg)](https://doi.org/10.5281/zenodo.7997437)
 
 ### Installation
+
+[Download code last stable released HERE](https://github.com/soduco/paper-nestedner-icdar23-code/releases/tag/v0_1_review_version)
+
 ```
 pip install --requirement requirements.txt
 ```
